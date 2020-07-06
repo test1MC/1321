@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Name="VarDefFlattened" Comment="varDefFlattened comment" EvaluatedDefinition="Unflattened variable definition &gt; Unflattened Definition&#160;Variable.">砻קยด1ตว融</Variable>
+    <Variable Name="VarDefNotFlattned" Comment="varDefNotFlattened comment" EvaluatedDefinition="Flattened variable definition &gt; Flattened Definition Variable">砻קยด2ตว融</Variable>
+    <Variable Name="UnflattenedDef.Var." Comment="unflatteneddefvar comment" EvaluatedDefinition="Unflattened Definition&#160;Variable.">砻קยด3ตว融</Variable>
+    <Variable Name="FlattenedDefVar" Comment="flatteneddefvar comment" EvaluatedDefinition="Flattened Definition Variable">砻קยด4ตว融</Variable>
+</CatapultVariableSet>

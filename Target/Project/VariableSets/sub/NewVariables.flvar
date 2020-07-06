@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Name="VarDefFlattened"
+    Comment="varDefFlattened comment"
+    EvaluatedDefinition="Unflattened variable definition &gt; Unflattened Definition Variable.">Unflattened variable definition &gt; [%=sub/NewVariables.UnflattenedDef.Var.%]</Variable>
+  <Variable
+    Name="VarDefNotFlattned"
+    Comment="varDefNotFlattened comment"
+    EvaluatedDefinition="Flattened variable definition &gt; Flattened Definition Variable">Flattened variable definition &gt; [%=sub/NewVariables.FlattenedDefVar%]</Variable>
+  <Variable
+    Name="UnflattenedDef.Var."
+    Comment="unflatteneddefvar comment"
+    EvaluatedDefinition="Unflattened Definition Variable.">Unflattened Definition Variable.</Variable>
+  <Variable
+    Name="FlattenedDefVar"
+    Comment="flatteneddefvar comment"
+    EvaluatedDefinition="Flattened Definition Variable">Flattened Definition Variable</Variable>
+</CatapultVariableSet>
